@@ -1,0 +1,18 @@
+{
+  "name": "com.bleb42.dungeongen",
+  "displayName": "Dungeon Gen",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Grid-free procedural dungeon generator for Unity. Build rooms from prefabs, bake their floor and doors, and generate connected layouts with loops, special rooms and a built-in minimap.",
+  "keywords": [
+    "procedural",
+    "dungeon",
+    "generation",
+    "rooms",
+    "minimap"
+  ],
+  "author": {
+    "name": "bleb42",
+    "url": "https://github.com/bleb42"
+  }
+}
